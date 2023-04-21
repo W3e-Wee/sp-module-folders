@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DSAL_CA2/1.0.0": {
+        "runtime": {
+          "DSAL_CA2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DSAL_CA2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

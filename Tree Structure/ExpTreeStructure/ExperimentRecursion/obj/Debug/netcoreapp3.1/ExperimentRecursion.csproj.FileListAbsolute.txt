@@ -1,0 +1,14 @@
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\bin\Debug\netcoreapp3.1\ExperimentRecursion.exe
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\bin\Debug\netcoreapp3.1\ExperimentRecursion.deps.json
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\bin\Debug\netcoreapp3.1\ExperimentRecursion.runtimeconfig.json
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\bin\Debug\netcoreapp3.1\ExperimentRecursion.runtimeconfig.dev.json
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\bin\Debug\netcoreapp3.1\ExperimentRecursion.dll
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\bin\Debug\netcoreapp3.1\ExperimentRecursion.pdb
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\obj\Debug\netcoreapp3.1\ExperimentRecursion.csproj.AssemblyReference.cache
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\obj\Debug\netcoreapp3.1\ExperimentRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\obj\Debug\netcoreapp3.1\ExperimentRecursion.AssemblyInfoInputs.cache
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\obj\Debug\netcoreapp3.1\ExperimentRecursion.AssemblyInfo.cs
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\obj\Debug\netcoreapp3.1\ExperimentRecursion.csproj.CoreCompileInputs.cache
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\obj\Debug\netcoreapp3.1\ExperimentRecursion.dll
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\obj\Debug\netcoreapp3.1\ExperimentRecursion.pdb
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentRecursion\obj\Debug\netcoreapp3.1\ExperimentRecursion.genruntimeconfig.cache

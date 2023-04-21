@@ -1,0 +1,18 @@
+        public Label CreateLabel()
+        {
+            Label labelSeat = new Label();//Instantiate a new Label type object, labelSeat
+
+            /* ======== Configure label Seats ========== */
+            labelSeat.Text = ComputeSeatLabel();
+            labelSeat.Location = new Point((60 * (this.Column - 1)) + 50 + (20 * (this.Column - 1)), (60 * (this.Row - 1)) + 50 + (20 * (this.Row - 1))); //Create a Point type object which has x,y coordinate info
+            labelSeat.Size = new Size(60, 60); //Create a Size type object which has the width, height info
+            labelSeat.TextAlign = ContentAlignment.MiddleCenter; //Align the Text to mid - center
+            labelSeat.BorderStyle = BorderStyle.FixedSingle; //Make the border visible
+            labelSeat.BackColor = Color.LightGray; //Set the background color
+            labelSeat.Font = new Font("Calibri", 14, FontStyle.Bold);
+            labelSeat.ForeColor = Color.Black;
+            labelSeat.Tag = new SeatInfo() { Row = this.Row, Column = this.Column };
+
+            return labelSeat;
+
+        }

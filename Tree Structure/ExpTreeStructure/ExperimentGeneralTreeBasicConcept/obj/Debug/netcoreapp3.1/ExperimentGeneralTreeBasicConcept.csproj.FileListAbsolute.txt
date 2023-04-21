@@ -1,0 +1,14 @@
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\bin\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.exe
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\bin\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.deps.json
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\bin\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.runtimeconfig.json
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\bin\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.runtimeconfig.dev.json
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\bin\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.dll
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\bin\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.pdb
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\obj\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.csproj.AssemblyReference.cache
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\obj\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\obj\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.AssemblyInfoInputs.cache
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\obj\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.AssemblyInfo.cs
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\obj\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.csproj.CoreCompileInputs.cache
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\obj\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.dll
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\obj\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.pdb
+C:\Users\heatb\Documents\SP Stuff\Year2\DSAL\Tree Structure\ExperimentGeneralTreeBasicConcept\obj\Debug\netcoreapp3.1\ExperimentGeneralTreeBasicConcept.genruntimeconfig.cache

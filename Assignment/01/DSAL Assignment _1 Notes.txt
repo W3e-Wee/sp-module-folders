@@ -1,0 +1,22 @@
+
+Seat possible purpose:
+- rmb Left and Right Seat
+- See if theres a divider on its left or right, front or behind
+
+> FOR BOOKING OF ADJACENT SEATS
+Leverage node to see if left or right has a booked/unbooked seat or divider (public Node Parent {})
+In node class, seat can reference the parent seat using a parent property
+(pSeat.Parent = this)
+
+Can also use SearchByRowAndColumn to check for seats
+
+Needs a check to see if the label was the first one to be clicked
+- Use a variable to rmb the first seat booked (numOfBookings)
+
+Subsequent labels checked needs to see if seats near it is booked
+
+> FOR DIVIDERS
+Leverage the SearchByRowAndColumn 
+OR 
+nested FOR loop put IF statements (can cause other probs)
+
